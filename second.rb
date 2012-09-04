@@ -1,3 +1,3 @@
 #second ruby file
 
-puts "Hello world"
+puts "Hello world!"
